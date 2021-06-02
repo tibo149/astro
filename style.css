@@ -2,5 +2,9 @@
     width:100%;
 }
 html, body, .container-fluid {
-    background-color:green;
+    background-color:black;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2em;
 }
